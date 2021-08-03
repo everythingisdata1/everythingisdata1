@@ -1,5 +1,7 @@
 ### Hi there, I'm Bharat Singh 👋
 
+
+Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | PythonMachine learning | Deep Learning | Tensorflow | 
 <!--
 **everythingisdata/everythingisdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
