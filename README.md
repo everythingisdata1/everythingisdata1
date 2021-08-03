@@ -2,7 +2,7 @@
 
 
 ### Language and Tools:
-Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Python | Machine learning | Deep Learning | Tensorflow | 
+Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
 <!--
 **everythingisdata/everythingisdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
