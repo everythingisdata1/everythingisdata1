@@ -1,6 +1,8 @@
 ### Hi there, I'm Bharat Singh 👋
 
 
+I am a software developer having around 9+ years experience.
+
 ### Language and Tools:
 Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
 <!--
