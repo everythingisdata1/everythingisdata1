@@ -5,7 +5,7 @@
 
 - I'm a Software Developer having around 9+ years experience.
 
-🔭 I’m currently working on **Java and AWS**
+🔭 I’m currently working on **Java with AWS**
 
 🌱 I’m currently learning **Machine Learing and AI.**
 
