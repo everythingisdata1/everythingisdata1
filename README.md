@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=everythingisdata&color=dc143c)
 
+<h1 align="center">Hi 👋, I'm Bharat Singh</h1> 
 
-### Hi there, I'm Bharat Singh 👋
 
-I'm a Software Developer having around 9+ years experience.
+- I'm a Software Developer having around 9+ years experience.
 
 🔭 I’m currently working on **Java and AWS**
 
@@ -23,6 +23,12 @@ Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Machine learni
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everythingisdata&langs_count=10&layout=compact#" /></a>
   <br/>
  
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everythingisdata&show_icons=true&locale=en&layout=compact" alt="everythingisdata" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=everythingisdata&show_icons=true&locale=en" alt="everythingisdata" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everythingisdata&" alt="everythingisdata" /></p>
 
 
 <!--
