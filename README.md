@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=everythingisdata&color=dc143c)
+
+
 ### Hi there, I'm Bharat Singh 👋
 
 I'm a Software Developer having around 9+ years experience.
@@ -8,8 +11,20 @@ I'm a Software Developer having around 9+ years experience.
 
 💬 Ask me about **Java , Python, AWS, Microservices and ML.**
 
-### Language and Tools:
+### 🛠 &nbsp;Tech Stack
 Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
+
+![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=everythingisdata&show_icons=true&hide_border=true)
+
+
+<br>
+ <summary>💻 Languages Mostly Used</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everythingisdata&langs_count=10&layout=compact#" /></a>
+  <br/>
+ 
+
+
 <!--
 **everythingisdata/everythingisdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
