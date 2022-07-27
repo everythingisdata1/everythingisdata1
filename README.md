@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Singh</h1> 
 
 
-- I'm a Software Developer having around 9+ years experience.
+- I'm a Software Developer having around 10+ years experience.
 
 🔭 I’m currently working on **Java with AWS**
 
@@ -12,7 +12,7 @@
 💬 Ask me about **Java , Python, AWS, Microservices and ML.**
 
 ### 🛠 &nbsp;Tech Stack
-Java | Spring Boot | x1 AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
+Java | Spring Boot | 2x AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
 
 ![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=everythingisdata&show_icons=true&hide_border=true)
 
