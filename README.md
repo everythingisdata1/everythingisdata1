@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Singh</h1> 
 
 
-- I'm a Software Developer having around 10+ years experience.
+I'm a Software Developer having around 10+ years experience.
 
 🔭 I’m currently working on **Java with AWS**
 
