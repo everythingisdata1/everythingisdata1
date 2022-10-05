@@ -22,3 +22,6 @@ Java | Spring Boot | 2x AWS | Docker | K8s| Helm Charts| Python | Machine learni
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat0686&show_icons=true&locale=en" alt="bharat0686" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat0686&" alt="bharat0686" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat0686" alt="bharat0686" /></a> </p>
+
