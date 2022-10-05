@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Bharat Singh</h1> 
 <h3 align="center">A passionate AWS Java cloud Native Developer wit 11+ Years Ex</h3> 
 
-🔭 I’m currently working on **Java with Aws**
+🔭 I’m currently working on **Java and AWS Cloud**
 
 🌱 I’m currently learning **Machine Learing and AI.**
 
-💬 Ask me about **Java , Python, AWS, Microservices and ML.**
+💬 Ask me about  **Cloud Natvie Development with java/Python and AWS Infra**
 
 ### 🛠 &nbsp;Tech Stack
 Java | Spring Boot | 2x AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | 
