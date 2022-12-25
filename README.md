@@ -31,6 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatsdev&show_icons=true&locale=en" alt="bharatsdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsdev&" alt="bharatsdev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatsdev" alt="bharatsdev" /></a> </p>
+ 
 
