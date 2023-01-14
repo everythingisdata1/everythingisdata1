@@ -10,7 +10,7 @@
 💬 Ask me about  **Cloud Natvie Development with java/Python and AWS Infra**
 
 ### 🛠 &nbsp;Tech Stack
-**Java | Spring Boot | 2x AWS | Docker | K8s| Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | AWS CDK**
+**1x Java | Spring Boot | 2x AWS | Docker | Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | AWS CDK**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
