@@ -26,10 +26,10 @@
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatsdev&show_icons=true&locale=en&layout=compact" alt="bharatsdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everythingisdata1&show_icons=true&locale=en&layout=compact" alt="everythingisdata1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatsdev&show_icons=true&locale=en" alt="bharatsdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=everythingisdata1&show_icons=true&locale=en" alt="everythingisdata1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsdev&" alt="bharatsdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everythingisdata1&" alt="everythingisdata1" /></p>
  
 
