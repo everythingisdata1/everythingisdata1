@@ -1,35 +1,103 @@
 ![](https://komarev.com/ghpvc/?username=everythingisdata1&color=dc143c)
 
-<h1 align="center">Hi 👋, I'm Bharat Singh</h1> 
-<h3 align="center">A passionate AWS Java cloud Native Developer wit 11+ Years </h3> 
+<h1 align="center">Hi 👋, I'm Bharat Singh</h1>
+<h3 align="center">Principal Engineer & Cloud  | AWS | Java | GenAI & Agentic Systems | 13+ Years</h3>
 
-🔭 I’m currently working on **Java and AWS Cloud**
+---
 
-🌱 I’m currently learning **Machine Learing and AI.**
+## 🏗 About Me
 
-💬 Ask me about  **Cloud Natvie Development with java/Python and AWS Infra**
+I am a **Cloud-Native Architect & AI Platform Engineer** with 13+ years of experience designing scalable distributed systems on AWS.
 
-### 🛠 &nbsp;Tech Stack
-**1x Java | Spring Boot | 2x AWS | Docker | Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | AWS CDK**
+I specialize in building:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Enterprise-grade Microservices
+- Kubernetes-native Cloud Platforms
+- Generative AI & Agentic AI Systems
+- Secure, cost-optimized AWS architectures
 
- 
+I combine **Cloud Architecture + DevOps + AI Engineering** to build intelligent, production-ready platforms.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everythingisdata1&show_icons=true&locale=en&layout=compact" alt="everythingisdata1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=everythingisdata1&show_icons=true&locale=en" alt="everythingisdata1" /></p>
+## 🤖 Current Focus: Intelligent Cloud Systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everythingisdata1&" alt="everythingisdata1" /></p>
- 
+- Agentic AI using LangGraph
+- RAG 2.0 architectures
+- AWS Bedrock & LLM integrations
+- Multi-agent orchestration
+- AI cost optimization & token efficiency
+- Production deployment of AI workloads on Kubernetes
 
+---
+
+## 🛠 Core Technology Stack
+
+### ☁️ Cloud & DevOps
+- AWS (EKS, Lambda, S3, Bedrock, CDK, IAM)
+- Docker & Kubernetes
+- Helm Charts
+- Terraform
+- CI/CD Automation
+
+### 💻 Backend & Architecture
+- Java (Spring Boot, Microservices)
+- Python (FastAPI, AI Services)
+- Event-Driven Architecture
+- Distributed Systems Design
+- Domain-Driven Design (DDD)
+
+### 🤖 AI & Machine Learning
+- LLM Integration
+- RAG Architecture
+- LangChain / LangGraph
+- TensorFlow
+- Scikit-Learn
+- Deep Learning
+
+### 🗄 Data & Messaging
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Oracle
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified (2x)
+- HashiCorp Certified (1x)
+
+---
+
+## 🎯 What I Deliver
+
+✔ Scalable & Resilient Cloud Architectures  
+✔ Production-Grade AI Systems  
+✔ Secure & Cost-Optimized AWS Platforms  
+✔ Engineering Leadership & Technical Mentorship  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everythingisdata1&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=everythingisdata1&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everythingisdata1" />
+</p>
+
+---
+
+📫 Email: bharatmca2010@gmail.com  
+🌍 Based in India | Open to Global Cloud & AI Architecture Roles  
+
+---
+
+⭐ *Designing scalable cloud systems. Building intelligent AI platforms.*
